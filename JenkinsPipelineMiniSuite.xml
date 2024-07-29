@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="JenkinsPipelineMiniSuite" thread-count="1" parallel="methods">
+	<test name="JenkinsPipelineMiniSuite">
+
+		<classes>
+			<class name="com.ae.qa.tests.Sysadmin.TenantsPageTest">
+				<methods>
+				    <include name="ValidateFirstTimeLoginTest" />
+					<include name="validateAddNewTenant" />
+				</methods>
+			</class>
+
+			<class name="com.ae.qa.tests.Sysadmin.SystemUsersPageTest">
+				<methods>
+					<include name="creatingSystemAdminTest" />
+					<include name="validateEditSystemUsers" />
+				</methods>
+			</class>
+
+			<class name="com.ae.qa.tests.Sysadmin.TenantUsersPageTest">
+				<methods>
+					<include name="ValidateEditTenantUserTest" />
+				</methods>
+			</class>
+
+
+			<class name="com.ae.qa.tests.Sysadmin.InformationPageTest">
+				<methods>
+					<include name="validateAboutTabTest" />
+				</methods>
+			</class>
+
+			<class name="com.ae.qa.tests.TenantAdmin.LoginPageTestTA">
+				<methods>
+					<include name="ValidateFirstTimeTALoginTest" />
+				</methods>
+			</class>
+
+			<class name="com.ae.qa.tests.TenantAdmin.InformationPageTestTA">
+				<methods>
+					<include name="validateAboutTabTest" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+	<listeners>
+		<listener
+			class-name="com.ae.qa.Listeners.ITestListenerImplementation"></listener>
+	</listeners>
+</suite> 

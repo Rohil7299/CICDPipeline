@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[User logged in successfully]]>
+    </line>
+    <line>
+      <![CDATA[Credentials Permissions Tab is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Credential is selected successfully]]>
+    </line>
+    <line>
+      <![CDATA[Users button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[View Permission is selected successfully]]>
+    </line>
+    <line>
+      <![CDATA[Save button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Actual Success Message:- Permissions updated successfully]]>
+    </line>
+    <line>
+      <![CDATA[Expected Success Message:- Permissions updated successfully]]>
+    </line>
+    <line>
+      <![CDATA[Permission is updated successfully]]>
+    </line>
+    <line>
+      <![CDATA[User signed out successfully]]>
+    </line>
+    <line>
+      <![CDATA[User logged in successfully]]>
+    </line>
+    <line>
+      <![CDATA[Credentials Permissions Tab is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Credential is selected successfully]]>
+    </line>
+    <line>
+      <![CDATA[Users button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Use Permission is selected successfully]]>
+    </line>
+    <line>
+      <![CDATA[Save button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Actual Success Message:- Permissions updated successfully]]>
+    </line>
+    <line>
+      <![CDATA[Expected Success Message:- Permissions updated successfully]]>
+    </line>
+    <line>
+      <![CDATA[Permission is updated successfully]]>
+    </line>
+    <line>
+      <![CDATA[User signed out successfully]]>
+    </line>
+    <line>
+      <![CDATA[User logged in successfully]]>
+    </line>
+    <line>
+      <![CDATA[Credentials Permissions Tab is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Credential is selected successfully]]>
+    </line>
+    <line>
+      <![CDATA[Users button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Modify Permission is selected successfully]]>
+    </line>
+    <line>
+      <![CDATA[Save button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Actual Success Message:- Permissions updated successfully]]>
+    </line>
+    <line>
+      <![CDATA[Expected Success Message:- Permissions updated successfully]]>
+    </line>
+    <line>
+      <![CDATA[Permission is updated successfully]]>
+    </line>
+    <line>
+      <![CDATA[User signed out successfully]]>
+    </line>
+    <line>
+      <![CDATA[User logged in successfully]]>
+    </line>
+    <line>
+      <![CDATA[Credentials Permissions Tab is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Credential is selected successfully]]>
+    </line>
+    <line>
+      <![CDATA[Users button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[View Permission is selected successfully]]>
+    </line>
+    <line>
+      <![CDATA[Save button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Actual Success Message:- Permissions updated successfully]]>
+    </line>
+    <line>
+      <![CDATA[Expected Success Message:- Permissions updated successfully]]>
+    </line>
+    <line>
+      <![CDATA[Permission is updated successfully]]>
+    </line>
+    <line>
+      <![CDATA[User signed out successfully]]>
+    </line>
+    <line>
+      <![CDATA[User logged in successfully]]>
+    </line>
+    <line>
+      <![CDATA[Credentials Permissions Tab is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Credential is selected successfully]]>
+    </line>
+    <line>
+      <![CDATA[Users button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Use Permission is selected successfully]]>
+    </line>
+    <line>
+      <![CDATA[Save button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Actual Success Message:- Permissions updated successfully]]>
+    </line>
+    <line>
+      <![CDATA[Expected Success Message:- Permissions updated successfully]]>
+    </line>
+    <line>
+      <![CDATA[Permission is updated successfully]]>
+    </line>
+    <line>
+      <![CDATA[User signed out successfully]]>
+    </line>
+    <line>
+      <![CDATA[User logged in successfully]]>
+    </line>
+    <line>
+      <![CDATA[Credentials Permissions Tab is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Credential is selected successfully]]>
+    </line>
+    <line>
+      <![CDATA[Users button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Modify Permission is selected successfully]]>
+    </line>
+    <line>
+      <![CDATA[Save button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Actual Success Message:- Permissions updated successfully]]>
+    </line>
+    <line>
+      <![CDATA[Expected Success Message:- Permissions updated successfully]]>
+    </line>
+    <line>
+      <![CDATA[Permission is updated successfully]]>
+    </line>
+    <line>
+      <![CDATA[User signed out successfully]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-07-10T11:35:04 IST" name="Default suite" finished-at="2024-07-10T11:37:54 IST" duration-ms="169666">
+    <groups>
+    </groups>
+    <test started-at="2024-07-10T11:35:04 IST" name="Default test" finished-at="2024-07-10T11:37:54 IST" duration-ms="169666">
+      <class name="com.ae.qa.tests.TenantAdmin.CredentialPermissionsPageTestTA">
+        <test-method is-config="true" signature="setExtent()[pri:0, instance:com.ae.qa.tests.TenantAdmin.CredentialPermissionsPageTestTA@1d8062d2]" started-at="2024-07-10T11:35:04 IST" name="setExtent" finished-at="2024-07-10T11:35:04 IST" duration-ms="97" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setExtent -->
+        <test-method is-config="true" signature="initialization()[pri:0, instance:com.ae.qa.tests.TenantAdmin.CredentialPermissionsPageTestTA@1d8062d2]" started-at="2024-07-10T11:35:04 IST" name="initialization" finished-at="2024-07-10T11:35:08 IST" duration-ms="4348" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="validateAssignSingleCredentialSingleUserTest(java.lang.reflect.Method,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1502, instance:com.ae.qa.tests.TenantAdmin.CredentialPermissionsPageTestTA@1d8062d2]" started-at="2024-07-10T11:35:08 IST" name="validateAssignSingleCredentialSingleUserTest" data-provider="CredentialPermissions" finished-at="2024-07-10T11:35:32 IST" duration-ms="23347" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.ae.qa.tests.TenantAdmin.CredentialPermissionsPageTestTA.validateAssignSingleCredentialSingleUserTest(java.lang.reflect.Method,java.lang.String,java.lang.String,java.lang.String,java.lang.String) throws java.lang.Exception]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[KG_Private3 For Private Purpose]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Tenant Rani01]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[TenantRani01]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[View]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[User logged in successfully]]>
+            </line>
+            <line>
+              <![CDATA[Credentials Permissions Tab is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Credential is selected successfully]]>
+            </line>
+            <line>
+              <![CDATA[Users button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[View Permission is selected successfully]]>
+            </line>
+            <line>
+              <![CDATA[Save button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Actual Success Message:- Permissions updated successfully]]>
+            </line>
+            <line>
+              <![CDATA[Expected Success Message:- Permissions updated successfully]]>
+            </line>
+            <line>
+              <![CDATA[Permission is updated successfully]]>
+            </line>
+            <line>
+              <![CDATA[User signed out successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateAssignSingleCredentialSingleUserTest -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.ae.qa.tests.TenantAdmin.CredentialPermissionsPageTestTA@1d8062d2]" started-at="2024-07-10T11:35:32 IST" name="getResult" finished-at="2024-07-10T11:35:33 IST" duration-ms="948" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateAssignSingleCredentialSingleUserTest status=SUCCESS method=CredentialPermissionsPageTestTA.validateAssignSingleCredentialSingleUserTest(java.lang.reflect.Method,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1502, instance:com.ae.qa.tests.TenantAdmin.CredentialPermissionsPageTestTA@1d8062d2] output=User logged in successfully]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="initialization()[pri:0, instance:com.ae.qa.tests.TenantAdmin.CredentialPermissionsPageTestTA@1d8062d2]" started-at="2024-07-10T11:35:33 IST" name="initialization" finished-at="2024-07-10T11:35:37 IST" duration-ms="3880" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="validateAssignSingleCredentialSingleUserTest(java.lang.reflect.Method,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1502, instance:com.ae.qa.tests.TenantAdmin.CredentialPermissionsPageTestTA@1d8062d2]" started-at="2024-07-10T11:35:37 IST" name="validateAssignSingleCredentialSingleUserTest" data-provider="CredentialPermissions" finished-at="2024-07-10T11:36:00 IST" duration-ms="23191" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.ae.qa.tests.TenantAdmin.CredentialPermissionsPageTestTA.validateAssignSingleCredentialSingleUserTest(java.lang.reflect.Method,java.lang.String,java.lang.String,java.lang.String,java.lang.String) throws java.lang.Exception]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[KG_Private3 For Private Purpose]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Tenant Rani01]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[TenantRani01]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Use]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[User logged in successfully]]>
+            </line>
+            <line>
+              <![CDATA[Credentials Permissions Tab is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Credential is selected successfully]]>
+            </line>
+            <line>
+              <![CDATA[Users button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Use Permission is selected successfully]]>
+            </line>
+            <line>
+              <![CDATA[Save button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Actual Success Message:- Permissions updated successfully]]>
+            </line>
+            <line>
+              <![CDATA[Expected Success Message:- Permissions updated successfully]]>
+            </line>
+            <line>
+              <![CDATA[Permission is updated successfully]]>
+            </line>
+            <line>
+              <![CDATA[User signed out successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateAssignSingleCredentialSingleUserTest -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.ae.qa.tests.TenantAdmin.CredentialPermissionsPageTestTA@1d8062d2]" started-at="2024-07-10T11:36:00 IST" name="getResult" finished-at="2024-07-10T11:36:00 IST" duration-ms="758" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateAssignSingleCredentialSingleUserTest status=SUCCESS method=CredentialPermissionsPageTestTA.validateAssignSingleCredentialSingleUserTest(java.lang.reflect.Method,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1502, instance:com.ae.qa.tests.TenantAdmin.CredentialPermissionsPageTestTA@1d8062d2] output=User logged in successfully]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="initialization()[pri:0, instance:com.ae.qa.tests.TenantAdmin.CredentialPermissionsPageTestTA@1d8062d2]" started-at="2024-07-10T11:36:00 IST" name="initialization" finished-at="2024-07-10T11:36:04 IST" duration-ms="3967" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="validateAssignSingleCredentialSingleUserTest(java.lang.reflect.Method,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1502, instance:com.ae.qa.tests.TenantAdmin.CredentialPermissionsPageTestTA@1d8062d2]" started-at="2024-07-10T11:36:04 IST" name="validateAssignSingleCredentialSingleUserTest" data-provider="CredentialPermissions" finished-at="2024-07-10T11:36:28 IST" duration-ms="23316" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.ae.qa.tests.TenantAdmin.CredentialPermissionsPageTestTA.validateAssignSingleCredentialSingleUserTest(java.lang.reflect.Method,java.lang.String,java.lang.String,java.lang.String,java.lang.String) throws java.lang.Exception]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[KG_Private3 For Private Purpose]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Tenant Rani01]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[TenantRani01]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Modify]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[User logged in successfully]]>
+            </line>
+            <line>
+              <![CDATA[Credentials Permissions Tab is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Credential is selected successfully]]>
+            </line>
+            <line>
+              <![CDATA[Users button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Modify Permission is selected successfully]]>
+            </line>
+            <line>
+              <![CDATA[Save button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Actual Success Message:- Permissions updated successfully]]>
+            </line>
+            <line>
+              <![CDATA[Expected Success Message:- Permissions updated successfully]]>
+            </line>
+            <line>
+              <![CDATA[Permission is updated successfully]]>
+            </line>
+            <line>
+              <![CDATA[User signed out successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateAssignSingleCredentialSingleUserTest -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.ae.qa.tests.TenantAdmin.CredentialPermissionsPageTestTA@1d8062d2]" started-at="2024-07-10T11:36:28 IST" name="getResult" finished-at="2024-07-10T11:36:29 IST" duration-ms="826" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateAssignSingleCredentialSingleUserTest status=SUCCESS method=CredentialPermissionsPageTestTA.validateAssignSingleCredentialSingleUserTest(java.lang.reflect.Method,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1502, instance:com.ae.qa.tests.TenantAdmin.CredentialPermissionsPageTestTA@1d8062d2] output=User logged in successfully]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="initialization()[pri:0, instance:com.ae.qa.tests.TenantAdmin.CredentialPermissionsPageTestTA@1d8062d2]" started-at="2024-07-10T11:36:29 IST" name="initialization" finished-at="2024-07-10T11:36:33 IST" duration-ms="4237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="validateAssignSingleCredentialSingleUserTest(java.lang.reflect.Method,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1502, instance:com.ae.qa.tests.TenantAdmin.CredentialPermissionsPageTestTA@1d8062d2]" started-at="2024-07-10T11:36:33 IST" name="validateAssignSingleCredentialSingleUserTest" data-provider="CredentialPermissions" finished-at="2024-07-10T11:36:56 IST" duration-ms="23218" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.ae.qa.tests.TenantAdmin.CredentialPermissionsPageTestTA.validateAssignSingleCredentialSingleUserTest(java.lang.reflect.Method,java.lang.String,java.lang.String,java.lang.String,java.lang.String) throws java.lang.Exception]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[KG_Private3 For Private Purpose]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Tenant Rani03]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[TenantRani03]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[View]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[User logged in successfully]]>
+            </line>
+            <line>
+              <![CDATA[Credentials Permissions Tab is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Credential is selected successfully]]>
+            </line>
+            <line>
+              <![CDATA[Users button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[View Permission is selected successfully]]>
+            </line>
+            <line>
+              <![CDATA[Save button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Actual Success Message:- Permissions updated successfully]]>
+            </line>
+            <line>
+              <![CDATA[Expected Success Message:- Permissions updated successfully]]>
+            </line>
+            <line>
+              <![CDATA[Permission is updated successfully]]>
+            </line>
+            <line>
+              <![CDATA[User signed out successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateAssignSingleCredentialSingleUserTest -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.ae.qa.tests.TenantAdmin.CredentialPermissionsPageTestTA@1d8062d2]" started-at="2024-07-10T11:36:56 IST" name="getResult" finished-at="2024-07-10T11:36:57 IST" duration-ms="917" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateAssignSingleCredentialSingleUserTest status=SUCCESS method=CredentialPermissionsPageTestTA.validateAssignSingleCredentialSingleUserTest(java.lang.reflect.Method,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1502, instance:com.ae.qa.tests.TenantAdmin.CredentialPermissionsPageTestTA@1d8062d2] output=User logged in successfully]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="initialization()[pri:0, instance:com.ae.qa.tests.TenantAdmin.CredentialPermissionsPageTestTA@1d8062d2]" started-at="2024-07-10T11:36:57 IST" name="initialization" finished-at="2024-07-10T11:37:01 IST" duration-ms="3839" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="validateAssignSingleCredentialSingleUserTest(java.lang.reflect.Method,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1502, instance:com.ae.qa.tests.TenantAdmin.CredentialPermissionsPageTestTA@1d8062d2]" started-at="2024-07-10T11:37:01 IST" name="validateAssignSingleCredentialSingleUserTest" data-provider="CredentialPermissions" finished-at="2024-07-10T11:37:24 IST" duration-ms="23312" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.ae.qa.tests.TenantAdmin.CredentialPermissionsPageTestTA.validateAssignSingleCredentialSingleUserTest(java.lang.reflect.Method,java.lang.String,java.lang.String,java.lang.String,java.lang.String) throws java.lang.Exception]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[KG_Private3 For Private Purpose]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Tenant Rani03]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[TenantRani03]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Use]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[User logged in successfully]]>
+            </line>
+            <line>
+              <![CDATA[Credentials Permissions Tab is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Credential is selected successfully]]>
+            </line>
+            <line>
+              <![CDATA[Users button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Use Permission is selected successfully]]>
+            </line>
+            <line>
+              <![CDATA[Save button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Actual Success Message:- Permissions updated successfully]]>
+            </line>
+            <line>
+              <![CDATA[Expected Success Message:- Permissions updated successfully]]>
+            </line>
+            <line>
+              <![CDATA[Permission is updated successfully]]>
+            </line>
+            <line>
+              <![CDATA[User signed out successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateAssignSingleCredentialSingleUserTest -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.ae.qa.tests.TenantAdmin.CredentialPermissionsPageTestTA@1d8062d2]" started-at="2024-07-10T11:37:24 IST" name="getResult" finished-at="2024-07-10T11:37:25 IST" duration-ms="953" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateAssignSingleCredentialSingleUserTest status=SUCCESS method=CredentialPermissionsPageTestTA.validateAssignSingleCredentialSingleUserTest(java.lang.reflect.Method,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1502, instance:com.ae.qa.tests.TenantAdmin.CredentialPermissionsPageTestTA@1d8062d2] output=User logged in successfully]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="initialization()[pri:0, instance:com.ae.qa.tests.TenantAdmin.CredentialPermissionsPageTestTA@1d8062d2]" started-at="2024-07-10T11:37:25 IST" name="initialization" finished-at="2024-07-10T11:37:29 IST" duration-ms="3680" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="validateAssignSingleCredentialSingleUserTest(java.lang.reflect.Method,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1502, instance:com.ae.qa.tests.TenantAdmin.CredentialPermissionsPageTestTA@1d8062d2]" started-at="2024-07-10T11:37:29 IST" name="validateAssignSingleCredentialSingleUserTest" data-provider="CredentialPermissions" finished-at="2024-07-10T11:37:52 IST" duration-ms="23220" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.ae.qa.tests.TenantAdmin.CredentialPermissionsPageTestTA.validateAssignSingleCredentialSingleUserTest(java.lang.reflect.Method,java.lang.String,java.lang.String,java.lang.String,java.lang.String) throws java.lang.Exception]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[KG_Private3 For Private Purpose]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Tenant Rani03]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[TenantRani03]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Modify]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[User logged in successfully]]>
+            </line>
+            <line>
+              <![CDATA[Credentials Permissions Tab is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Credential is selected successfully]]>
+            </line>
+            <line>
+              <![CDATA[Users button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Modify Permission is selected successfully]]>
+            </line>
+            <line>
+              <![CDATA[Save button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Actual Success Message:- Permissions updated successfully]]>
+            </line>
+            <line>
+              <![CDATA[Expected Success Message:- Permissions updated successfully]]>
+            </line>
+            <line>
+              <![CDATA[Permission is updated successfully]]>
+            </line>
+            <line>
+              <![CDATA[User signed out successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateAssignSingleCredentialSingleUserTest -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.ae.qa.tests.TenantAdmin.CredentialPermissionsPageTestTA@1d8062d2]" started-at="2024-07-10T11:37:52 IST" name="getResult" finished-at="2024-07-10T11:37:53 IST" duration-ms="1365" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateAssignSingleCredentialSingleUserTest status=SUCCESS method=CredentialPermissionsPageTestTA.validateAssignSingleCredentialSingleUserTest(java.lang.reflect.Method,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1502, instance:com.ae.qa.tests.TenantAdmin.CredentialPermissionsPageTestTA@1d8062d2] output=User logged in successfully]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="endReport()[pri:0, instance:com.ae.qa.tests.TenantAdmin.CredentialPermissionsPageTestTA@1d8062d2]" started-at="2024-07-10T11:37:53 IST" name="endReport" finished-at="2024-07-10T11:37:54 IST" duration-ms="203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.ae.qa.tests.TenantAdmin.CredentialPermissionsPageTestTA -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
